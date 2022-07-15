@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "112881078058",
+    "firebase_url": "https://proj001-6f766-default-rtdb.firebaseio.com",
+    "project_id": "proj001-6f766",
+    "storage_bucket": "proj001-6f766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112881078058:android:4c3ae182799fe91182d853",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112881078058-d3p98mh3bt5cefu30g035ij8pc8ci6ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6bHWdb0Wix6M2zA4AVXqvWEyehF0Was"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112881078058-d3p98mh3bt5cefu30g035ij8pc8ci6ib.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112881078058-2ktit9df33fmjpb6spi4sqvov03gte64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.appname"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112881078058:android:fd1c4529f57baa9f82d853",
+        "android_client_info": {
+          "package_name": "com.the420link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112881078058-83bc5h9f361kp2kokq1c4a65g2odhu79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the420link",
+            "certificate_hash": "24a46c203ac2c07ea652d7fd341d0f5ea07efb13"
+          }
+        },
+        {
+          "client_id": "112881078058-9gl5q9u556olv1snrt9lk24fnbhmp4fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the420link",
+            "certificate_hash": "c3b90b5634f0a032f2763e227b4d16cab5b2fb73"
+          }
+        },
+        {
+          "client_id": "112881078058-nngv90skp7q84dbsgaupvh8qmir975tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the420link",
+            "certificate_hash": "b8670926610ff7ae7c09c3da9eee482fe62f38fa"
+          }
+        },
+        {
+          "client_id": "112881078058-ppr3teohnv3un5hk6hb0me4ilvdunjli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the420link",
+            "certificate_hash": "250ac3b90cfd98534deee5cef57288e6018a49ae"
+          }
+        },
+        {
+          "client_id": "112881078058-d3p98mh3bt5cefu30g035ij8pc8ci6ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6bHWdb0Wix6M2zA4AVXqvWEyehF0Was"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112881078058-d3p98mh3bt5cefu30g035ij8pc8ci6ib.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112881078058-2ktit9df33fmjpb6spi4sqvov03gte64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.appname"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
